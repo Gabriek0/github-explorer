@@ -41,7 +41,7 @@ yarn
 yarn dev
 ```
 
-###🧑 Autor do Projeto
+### 🧑 Autor do Projeto
 
 <table>
   <tr>
