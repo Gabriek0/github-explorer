@@ -1,6 +1,7 @@
 <h1 align="center">Github Explorer 🔍</h1>
 
-
+<img align="center" src="./.github/github-explorer.gif">
+<br>
 <p align="justify">Utilizando a API do Github para listar repositórios.</p>
 
 
